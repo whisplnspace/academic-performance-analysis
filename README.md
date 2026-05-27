@@ -51,19 +51,6 @@ Subjects analyzed:
 
 ---
 
-## Technologies Used
-
-- Python
-- Google Colab
-- pandas
-- numpy
-- matplotlib
-- seaborn
-- scipy
-- statsmodels
-
----
-
 ## Repository Structure
 
 ```bash
